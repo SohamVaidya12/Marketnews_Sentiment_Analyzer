@@ -2,7 +2,7 @@
 # Real-Time Market Sentiment Analyzer using Apache Spark
 
 <p align="center">
-  <img src="L1.png" width="500">
+  <img src="LLLogo.png" width="300">
 </p>
 
 ## 🚀 Project Overview
