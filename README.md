@@ -1,4 +1,4 @@
-# 📊 Real-Time Market Sentiment Analyzer using Apache Spark
+# Real-Time Market Sentiment Analyzer using Apache Spark
 
 ## 🚀 Project Overview
 This project is a **Scalable Sentiment Analysis System** built using **Apache Spark MLlib** to analyze financial news headlines and classify them into **Positive, Negative, or Neutral sentiments**.
