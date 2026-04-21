@@ -56,5 +56,12 @@ It combines:
 ---
 
 ## 🏗️ System Architecture
+<p align="center">
+  <img src="mermaid-diagram.png" width="500">
+</p>
+<p align="center">
+
+**Figure 1: System Architecture**
+</p>
 
 
