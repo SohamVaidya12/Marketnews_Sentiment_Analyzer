@@ -19,6 +19,21 @@ It combines:
 
 ---
 
+## 🧰 Tools Used
+
+| Category              | Tools / Technologies |
+|----------------------|--------------------|
+| Programming Language | Python 🐍 |
+| Big Data Framework   | Apache Spark 🔥 |
+| ML Library           | PySpark MLlib |
+| Data Processing      | Pandas |
+| UI Framework         | Gradio |
+| Visualization        | Built-in UI components |
+| Development Platform | Google Colab / Jupyter Notebook |
+| Version Control      | Git & GitHub |
+
+---
+
 ## 🧠 Techniques Used
 
 ### 1. Distributed Text Processing
