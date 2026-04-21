@@ -57,7 +57,7 @@ It combines:
 
 ## 🏗️ System Architecture
 <p align="center">
-  <img src="mermaid-diagram.png" width="500">
+  <img src="system_architecture.png" width="500">
 </p>
 <p align="center">
 
